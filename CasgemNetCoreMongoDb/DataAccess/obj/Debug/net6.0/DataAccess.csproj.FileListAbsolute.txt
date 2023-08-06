@@ -1,0 +1,60 @@
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\Entity.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\bin\Debug\net6.0\Entity.pdb
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,297 @@
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\appsettings.Development.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\appsettings.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.staticwebassets.runtime.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.exe
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.deps.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.runtimeconfig.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\DnsClient.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Humanizer.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MessagePack.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.Common.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\SharpCompress.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Snappier.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ZstdSharp.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Business.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Business.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfo.cs
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cs
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\scopedcss\bundle\WebUI.styles.css
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.csproj.CopyComplete
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\refint\WebUI.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.genruntimeconfig.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\ref\WebUI.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfo.cs
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cs
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\refint\WebUI.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\appsettings.Development.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\appsettings.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.staticwebassets.runtime.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.exe
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.deps.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.runtimeconfig.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\WebUI.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\AspNetCore.Identity.MongoDbCore.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\DnsClient.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\MongoDbGenericRepository.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\SharpCompress.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Snappier.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\ZstdSharp.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\bin\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\scopedcss\bundle\WebUI.styles.css
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.csproj.CopyComplete
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.genruntimeconfig.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\ref\WebUI.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfo.cs
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cs
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\refint\WebUI.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\WebUI\obj\Debug\net6.0\WebUI.pdb

@@ -1,0 +1,24 @@
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\bin\Debug\net6.0\Entity.deps.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\bin\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\bin\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\refint\Entity.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\ref\Entity.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\bin\Debug\net6.0\Entity.deps.json
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\bin\Debug\net6.0\Entity.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\bin\Debug\net6.0\Entity.pdb
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\refint\Entity.dll
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\Entity.pdb
+D:\Murat_Yucedag\CASGEM_Egitim\MongoDb\mongoson\CasgemNetCoreMongoDb\EntityLayer\obj\Debug\net6.0\ref\Entity.dll

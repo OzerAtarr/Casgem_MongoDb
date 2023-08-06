@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\contentFiles\any\netstandard2.1\libmongocrypt.dylib" />
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\contentFiles\any\netstandard2.1\libmongocrypt.so" />
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\contentFiles\any\netstandard2.1\mongocrypt.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.20.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\build\../runtimes/win/native/mongocrypt.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\build\../runtimes/win/native/mongocrypt.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\build\../runtimes/win/native/mongocrypt.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\build\../runtimes/win/native/mongocrypt.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\build\../runtimes/win/native/mongocrypt.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\90536\.nuget\packages\mongodb.libmongocrypt\1.8.0\build\../runtimes/win/native/mongocrypt.dll" />
+  </ItemGroup>
+
+</Project>

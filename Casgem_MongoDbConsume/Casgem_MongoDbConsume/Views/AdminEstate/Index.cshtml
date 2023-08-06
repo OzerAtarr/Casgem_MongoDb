@@ -1,0 +1,170 @@
+﻿
+@{
+    var userName = ViewData["UserName"] as string;
+    Layout = null;
+    int count = 0;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Emlak ADMIN</title>
+    <!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 11]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="">
+    <meta name="author" content="Phoenixcoded" />
+    <!-- Favicon icon -->
+    <link rel="icon" href="~/admintemplate/dist/assets/images/favicon.ico" type="image/x-icon">
+
+    <!-- vendor css -->
+    <link rel="stylesheet" href="~/admintemplate/dist/assets/css/style.css">
+
+
+
+</head>
+<body class="">
+    <!-- [ navigation menu ] start -->
+    <nav class="pcoded-navbar  ">
+        <div class="navbar-wrapper  ">
+            <div class="navbar-content scroll-div ">
+
+                <div class="">
+                    <div class="main-menu-header">
+                        <img class="img-radius" src="~/admintemplate/dist/assets/images/user/avatar-2.jpg" alt="User-Profile-Image">
+                        <div class="user-details">
+                            <span>Admin</span>
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+
+                <ul class="nav pcoded-inner-navbar ">
+                    <li class="nav-item pcoded-menu-caption">
+                        <label>Navigation</label>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Dashboard</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Dashboard</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Dashboard</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link "><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Dashboard</span></a>
+                    </li>
+
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+    <!-- [ navigation menu ] end -->
+    <!-- [ Header ] start -->
+    <header class="navbar pcoded-header navbar-expand-lg navbar-light header-dark">
+
+
+        <div class="m-header">
+            @*    <a class="mobile-menu" id="mobile-collapse" href="#!"><span></span></a>*@
+            <a href="#!" class="b-brand">
+                <!-- ========   change your logo hear   ============ -->
+                <img src="~/admintemplate/dist/assets/images/logo.png" alt="" class="logo">
+                <img src="~/admintemplate/dist/assets/images/logo-icon.png" alt="" class="logo-thumb">
+            </a>
+            @* <a href="#!" class="mob-toggler">
+            <i class="feather icon-more-vertical"></i>
+            </a>*@
+        </div>
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav ml-auto">
+
+                <li class="nav-item">
+                    <div class="dropdown">
+                        <a class="dropdown-toggle h-drop" href="~/Logout/Index">
+                            @ViewBag.UserName - Çıkış Yap
+                        </a>
+                    </div>
+                </li>
+
+                <li>
+                    <div class="dropdown drp-user">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="feather icon-user"></i>
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+
+    </header>
+
+    <!-- [ Header ] end -->
+    <!-- [ Main Content ] start -->
+    <div class="pcoded-main-container">
+        <div class="pcoded-content">
+
+            <!-- [ Main Content ] start -->
+            <section class="locations-1" id="searchResults">
+                <div class="locations py-5">
+                    <div class="container py-lg-5 py-md-4 py-2">
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>#</th>
+                                <th>Başlık</th>
+                                <th>Fiyat</th>
+                                <th>Şehir</th>
+                                <th>Oda Sayısı</th>
+                                <th>Tip</th>
+                                <th>Sil</th>
+                                <th>Güncelle</th>
+                            </tr>
+                            @foreach (var item in Model)
+                            {
+                                count++;
+                                <tr>
+                                    <td>@count</td>
+                                    <td>@item.Title</td>
+                                    <td>@item.Price</td>
+                                    <td>@item.City</td>
+                                    <td>@item.Room</td>
+                                    <td>@item.Type</td>
+                                    <td><a href="/AdminEstate/DeleteEstate/@item.Id" class="btn btn-danger">Sil</a></td>
+                                    <td><a href="/AdminEstate/UpdateEstate/@item.Id" class="btn btn-warning">Güncelle</a></td>
+                                </tr>
+                            }
+                        </table>
+                        <a href="/AdminEstate/AddEstate" class="btn btn-info">Yeni Mülk Ekle</a>
+                    </div>
+                </div>
+            </section>
+            <!-- [ Main Content ] end -->
+        </div>
+
+    </div>
+    <!-- [ Main Content ] end -->
+    <!-- Required Js -->
+    <script src="~/admintemplate/dist/assets/js/vendor-all.min.js"></script>
+    <script src="~/admintemplate/dist/assets/js/plugins/bootstrap.min.js"></script>
+    <script src="~/admintemplate/assets/js/pcoded.min.js"></script>
+
+    <!-- Apex Chart -->
+    <script src="~/admintemplate/dist/assets/js/plugins/apexcharts.min.js"></script>
+
+
+    <!-- custom-chart js -->
+    <script src="~/admintemplate/dist/assets/js/pages/dashboard-main.js"></script>
+</body>
+
+</html>

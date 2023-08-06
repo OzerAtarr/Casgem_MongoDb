@@ -1,0 +1,34 @@
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Business.deps.json
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Business.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Business.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.pdb
+D:\Murat Yücedağ\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\ref\Business.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Business.deps.json
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Business.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Business.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\DataAccess.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Entity.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\bin\Debug\net6.0\Entity.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\Business.pdb
+D:\Murat Yücedağ\CASGEM EĞİTİM\MongoDb\CasgemNetCoreMongoDb\Business\obj\Debug\net6.0\ref\Business.dll
